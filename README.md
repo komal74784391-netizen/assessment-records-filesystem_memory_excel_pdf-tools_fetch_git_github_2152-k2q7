@@ -1,2 +1,8 @@
-# assessment-records-filesystem_memory_excel_pdf-tools_fetch_git_github_2152-k2q7
-Shared assessment records repository for Ridgeline Skills Institute
+# Assessment Records
+
+Shared office repository for Ridgeline Skills Institute assessment records.
+
+- `registry/assessment_registry.csv` - authoritative assessment registry
+- `schedule/assessment_schedule.jsonl` - published learner assessment schedule
+
+`main` holds the 2026 Autumn baseline. `dev` carries the Spring 2027 registry revision.
