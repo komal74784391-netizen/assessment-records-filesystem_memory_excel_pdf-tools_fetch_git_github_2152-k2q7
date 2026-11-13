@@ -2,7 +2,7 @@
 
 Shared office repository for Ridgeline Skills Institute assessment records.
 
-- `registry/assessment_registry.csv` - authoritative assessment registry
+- `registry/assessment_registry.csv` - authoritative assessment registry (Spring 2027 revision)
 - `schedule/assessment_schedule.jsonl` - published learner assessment schedule
 
-`main` holds the 2026 Autumn baseline. `dev` carries the Spring 2027 registry revision.
+This branch is the Spring 2027 revision of the 2026 Autumn `main` baseline.
